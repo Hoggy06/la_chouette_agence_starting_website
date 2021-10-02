@@ -2,7 +2,9 @@
 
 ## Analyse Lightouse avant
 
-1. Ordinateur index.html
+### Ordinateur
+
+1. Page index.html
 
 * Performance 82
 
@@ -12,17 +14,8 @@
 
 * SEO 90
 
-2. Mobile index.html
 
-* Performance 68
-
-* Accessibilité 84
-
-* Bonnes pratiques 93
-
-* SEO 78
-
-1. Ordinateur page2.html
+2. Page page2.html
 
 * Performance 100
 
@@ -32,7 +25,20 @@
 
 * SEO 90
 
-2. Mobile page2.html
+### Mobile
+
+1. Page index.html
+
+* Performance 68
+
+* Accessibilité 84
+
+* Bonnes pratiques 93
+
+* SEO 78
+
+
+2. Page page2.html
 
 * Performance 99
 
