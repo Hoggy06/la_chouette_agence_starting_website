@@ -6,13 +6,13 @@
 
 1. Page index.html
 
-* Performance 82
+    * Performance 82
 
-* Accessibilité 81
+    * Accessibilité 81
 
-* Bonnes pratiques 93
+    * Bonnes pratiques 93
 
-* SEO 90
+    * SEO 90
 
 ---------------------
 
