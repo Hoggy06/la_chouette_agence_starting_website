@@ -18,34 +18,34 @@
 
 2. Page page2.html
 
-* Performance 100
+    * Performance 100
 
-* Accessibilité 76
+    * Accessibilité 76
 
-* Bonnes pratiques 93
+    * Bonnes pratiques 93
 
-* SEO 90
+    * SEO 90
 
 ### Mobile
 
 1. Page index.html
 
-* Performance 68
+    * Performance 68
 
-* Accessibilité 84
+    * Accessibilité 84
 
-* Bonnes pratiques 93
+    * Bonnes pratiques 93
 
-* SEO 78
+    * SEO 78
 
 ---------------------
 
 2. Page page2.html
 
-* Performance 99
+    * Performance 99
 
-* Accessibilité 76
+    * Accessibilité 76
 
-* Bonnes pratiques 93
+    * Bonnes pratiques 93
 
-* SEO 81
+    * SEO 81
